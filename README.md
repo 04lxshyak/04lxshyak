@@ -75,17 +75,6 @@ Indian Institute of Information Technology (IIIT) Una
 
 ---
 
-# 📚 Key Coursework  
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- Signals & Systems  
-- Digital Circuits  
-- Control Systems  
-- Information Security & Cryptography  
-- Linear Algebra, Calculus, Probability  
-
----
-
 # 🏅 Achievements  
 - 🧠 **Solved 350+ DSA problems** (LeetCode + GFG)  
 - ⭐ **LeetCode Rating:** 1693  
