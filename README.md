@@ -36,37 +36,35 @@
 
 # 🚀 Featured Projects  
 
----
-
 ## 🔹 **Storo – Smart Luggage Storage Platform**  
 *React.js | Spring Boot | MongoDB | Mapbox | Razorpay | Tailwind CSS | JWT*  
 > Digital platform enabling travelers to securely store luggage at nearby hotels/partners with a time + weight-based pricing model.  
-> Integrated Mapbox API for real-time location search and Razorpay for secure UPI/card payments.  
-> Backend now powered by **Spring Boot**, featuring modular services, JWT authentication, and partner/user management.
+> Integrated Mapbox for live location search and Razorpay for UPI/card payments.  
+> Backend powered by **Spring Boot**, featuring modular services, JWT auth, and partner/user management.
 
 ---
 
 ## 🔹 **FitZen – AI-Powered Fitness App**  
 *Spring Boot | React.js | Google Gemini API | Keycloak | RabbitMQ*  
-> A microservices-based fitness app that delivers AI-powered insights using Gemini API.  
-> Features secure authentication with Keycloak and real-time communication via RabbitMQ.  
-> Scalable and fault-tolerant Spring Boot microservices architecture.
+> Microservices-based AI fitness app delivering realtime insights using Gemini API.  
+> Keycloak for secure authentication and RabbitMQ for event-driven communication.  
+> Scalable, fault-tolerant backend built using Spring Boot.
 
 ---
 
 ## 🔹 **NextMail – AI Email Reply Generator (Chrome Extension)**  
 *Spring Boot | React.js + Vite | Gemini API*  
-> Chrome extension that auto-generates intelligent email replies using Gemini AI.  
-> Real-time backend → frontend communication with response latency < **200ms**.  
-> Seamless workflow between the extension UI and Spring Boot APIs.
+> Chrome extension that generates intelligent email replies using Gemini AI.  
+> Maintains < **200ms** response time through optimized backend APIs.  
+> Smooth integration between Vite frontend and Spring Boot backend.
 
 ---
 
 ## 🔹 **JournalX – Secure Personal Journal App**  
 *Spring Boot | MongoDB | Redis | JWT*  
-> Full-stack journaling platform with robust JWT authentication.  
-> Redis caching improved performance by **45%**.  
-> Secure CRUD operations with scalable MongoDB storage.
+> Full-stack secure journaling application with JWT authentication.  
+> Redis caching boosted performance by **45%**.  
+> MongoDB used for scalable storage of journal entries.
 
 ---
 
@@ -91,16 +89,24 @@ Indian Institute of Information Technology (IIIT) Una
 # 🏅 Achievements  
 - 🧠 **Solved 350+ DSA problems** (LeetCode + GFG)  
 - ⭐ **LeetCode Rating:** 1693  
-- 🥇 **CodeChef Rating:** 2★  
+- 🟠 **CodeChef Rating:** 2★  
 - 🥈 **2× Silver Medalist**, Inter-IIIT Basketball Tournament (2023 & 2024)  
 
 ---
 
 # 🤝 Positions of Responsibility  
 - **Volunteering Head – ECOVA, IIIT Una**  
-  - Increased event engagement by **30%** through strategic planning.  
+  - Increased event engagement by **30%**.  
 - **Executive Member – ZENITH Club**  
-  - Boosted participation by **25%** through effective event management.
+  - Boosted participation by **25%**.
+
+---
+
+# 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=04lxshyak&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
@@ -108,8 +114,10 @@ Indian Institute of Information Technology (IIIT) Una
 
 <p align="center">
   <a href="mailto:lakshyakumar4403@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  
+  <a href="https://www.linkedin.com/in/lakshya-kumar-a74b27256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
+  <a href="https://github.com/04lxshyak"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
