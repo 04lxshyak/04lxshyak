@@ -71,12 +71,12 @@
 # 🎓 Education  
 **B.Tech in Electronics & Communication Engineering**  
 Indian Institute of Information Technology (IIIT) Una  
-- **CGPA: 7.08 (Current)**  
+- **CGPA: 7.12**  
 
 ---
 
 # 🏅 Achievements  
-- 🧠 **Solved 350+ DSA problems** (LeetCode + GFG)  
+- 🧠 **Solved 500+ DSA problems** (LeetCode + GFG)  
 - ⭐ **LeetCode Rating:** 1693  
 - 🟠 **CodeChef Rating:** 2★  
 - 🥈 **2× Silver Medalist**, Inter-IIIT Basketball Tournament (2023 & 2024)  
