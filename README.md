@@ -85,9 +85,7 @@ Indian Institute of Information Technology (IIIT) Una
 
 # 🤝 Positions of Responsibility  
 - **Volunteering Head – ECOVA, IIIT Una**  
-  - Increased event engagement by **30%**.  
 - **Executive Member – ZENITH Club**  
-  - Boosted participation by **25%**.
 
 ---
 
